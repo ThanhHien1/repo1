@@ -1,0 +1,44 @@
+Swift
+- tìm hiểu struct, cách tạo struct trong swift
+- tìm hiểu closure 
+- tìm hiểu class
+- tìm hiểu protocol
+- Tìm hiểu enum trong swift
+- Tìm hiểu extension trong swift, làm 1 ví dụ, viết extension cho String kiểm tra chuỗi có phải là sdt hay ko
+- Tìm hiểu qua mấy cái này rồi mình học tiếp ha, với lại tìm hiểu git là gì. cách hoạt động của local repo và remote repo
+Storyboard là gì
+Auto layout là gì
+UIViewController là gì, vòng đời của nó
+AppDelegate là gì, vòng đời của nó
+
+Hãy viết một ứng dụng quản lý sinh viên bằng ngôn ngữ lập trình Swift. Ứng dụng sẽ có các chức năng thêm, sửa, xóa và hiển thị danh sách sinh viên.
+
+Yêu cầu:
+
+Sử dụng Class hoặc Struct để định nghĩa một sinh viên, với các thuộc tính tên, tuổi, địa chỉ, số điện thoại và email.
+
+Sử dụng một mảng để lưu danh sách sinh viên.
+
+Sử dụng các hàm để thêm, sửa, xóa và hiển thị danh sách sinh viên.
+
+Sử dụng Closure để xử lý sự kiện khi người dùng thêm, sửa hoặc xóa một sinh viên.
+
+Sử dụng Enum để định nghĩa các loại lỗi có thể xảy ra trong quá trình thêm, sửa hoặc xóa sinh viên.
+
+Sử dụng Extension để kiểm tra tính hợp lệ của địa chỉ email và số điện thoại của một sinh viên.
+
+Chúc bạn thành công!
+
+
+var employees: [Employee] { get set }
+Tạo một ứng dụng quản lý nhân viên bằng ngôn ngữ lập trình Swift. Ứng dụng sẽ có các chức năng như: thêm, sửa, xóa và hiển thị danh sách nhân viên.
+
+Yêu cầu:
+
+Sử dụng kiến thức về Class, Struct, Protocol, Enum, Closure và Extension để xây dựng ứng dụng.
+Mỗi nhân viên sẽ có các thuộc tính như: tên, tuổi, địa chỉ, số điện thoại và email.
+Sử dụng Class hoặc Struct để định nghĩa một nhân viên.
+Sử dụng Protocol để định nghĩa một danh sách nhân viên, bao gồm các chức năng thêm, sửa, xóa và hiển thị danh sách.
+Sử dụng Closure để xử lý sự kiện khi người dùng thêm, sửa hoặc xóa một nhân viên.
+Sử dụng Enum để định nghĩa các loại lỗi có thể xảy ra trong quá trình thêm, sửa hoặc xóa nhân viên.
+Sử dụng Extension để kiểm tra tính hợp lệ của địa chỉ email và số điện thoại của một nhân viên.
