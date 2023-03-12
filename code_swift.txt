@@ -1,0 +1,3 @@
+class Coder{
+	func code_to_24h(){}
+}
